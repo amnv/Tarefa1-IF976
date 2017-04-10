@@ -1,0 +1,48 @@
+Measuring travel and tourism
+
+Most researchers would likely agree with the definition of travel
+and tourism provided by the Bureau of Economic Analysis (BEA) in
+its national travel and tourism satellite accounts: “the economic activity
+generated inside the United States by ‘visitors’ of all types—for business
+and pleasure, by residents and nonresidents alike—and outside
+the United States by U.S. residents” (Okubo and Planting).2 Yet measuring
+travel and tourism activity is not easy, particularly at the state
+and local levels. Unlike industries such as construction, manufacturing,
+or retail trade, most data sources do not list an industry called “travel
+and tourism.” At the national level, the BEA is able to use detailed
+industry-level data to provide estimates of travel and tourism’s importance.
+To do this, it first determines which commodities are typically
+purchased by visitors and which industries produce these items. The
+BEA then attributes various proportions of output and employment in
+an industry to travel and tourism based on the share of its products
+that are consumed by visitors as opposed to nonvisitors. These proportions
+range from greater than 75 percent for the hotel and air
+transportation industries to less than 5 percent for the railroad and
+retail trade industries.3
+Studies that compare travel and tourism activity across states and
+local areas must generally rely on other methods to determine travel and
+tourism’s importance. In this article, the basic measure of travel and
+tourism used to compare activity across states and localities will be
+employment in hotels, air travel, and amusement/recreation.4 Employment
+is often the only industry-level measure available for these
+geographic areas (although when other types of estimates are available
+they will sometimes be used for comparison purposes). The choice of
+the three industries was based largely on the proportions of their total
+output and employment that the BEA attributes to travel and tourism
+at the national level. As mentioned above, this share is very high for
+hotels and air travel. The share of national activity in the
+amusement/recreation industry attributed to travel and tourism is considerably
+smaller (about 25 percent) because local residents are often
+responsible for a large portion of this industry’s revenues. Still, if an area
+has a high concentration of amusement/recreation employment-
+which would include jobs in such establishments as museums, casinos,
+ski resorts, and amusement parks—then the area more than likely
+attracts a large number of visitors.
+Some studies include other industries in their measures of travel and
+tourism activity as well, such as restaurants, car rental agencies, and
+public transit. The basic measure in this article excludes these industries,
+usually either because economic data are missing for most geographic
+areas or because only a very small portion of activity in the industry can
+be attributed to travel and tourism.5 Given that these other industries are
+excluded, however, the basic measure likely understates travel and
+tourism’s importance in many areas.6

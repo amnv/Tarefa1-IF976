@@ -1,0 +1,42 @@
+The obscure doctrine that could save Trump's travel ban
+
+ast week, a federal judge in Hawaii refused to lift his block on President Trump's revised travel ban. The reason he refused, he said, was because the legal challenge against the ban — which will surely reach the Supreme Court — has a "strong" likelihood of succeeding. But this may be overly optimistic, thanks to the lingering hold of something called the plenary power doctrine, which gives the president and Congress sweeping powers to set immigration policy without regard to the Constitution's usual checks.
+
+If there were ever a case crying for this doctrine to be thrown out, Trump's travel ban would surely be it. The national security rationale that the administration is offering to justify its ban is so pathetically weak that the Supreme Court justices will have to suspend a lot of disbelief to swallow it.
+
+But still, Trump might prevail.
+
+The plenary power doctrine has its genesis in 19th century case law. In a series of three cases, the Supreme Court ruled that:
+
+A Chinese worker based in the United States had no right to re-enter after a brief visit to his native country because Congress had changed the rules in the interim (Chae Chan Ping v. United States, 1889).
+The court would not second-guess political authorities who without due process or an explanation had refused to let a Japanese woman enter so that she could join her husband in the United States (Nishimura Ekiu v. United States, 1892).
+The government could indefinitely detain, pending deportation, any Chinese citizen living in the United States who had failed to obtain residency permits even if they had committed no other crime (Fong Yue Ting vs. United States, 1893).
+The underlying rationale in all these cases was that, in order to protect itself, the government of a sovereign nation like America must be able to exclude any foreigner from its soil without constitutional objections from courts. The only "rights" foreigners are entitled to when it comes to their ability to enter or stay in the country are those that the political branches decide to extend to them. So, actions that might be illicit when applied to citizens are unobjectionable when it comes to foreigners, especially those not living in the United States.
+
+The court doubled down on this rationale during the heyday of the Red Scare. In 1950, it refused to allow Ellen Knauff, the Jewish-German wife of a U.S. army employee fleeing Czechoslovakia, from entering the country. Immigration officials claimed, based on the word of a jealous ex-girlfriend, that she was a spy. In another case, the justices reaffirmed the right of authorities, without explanation or due process, to bar a Hungarian legal permanent resident, Ignatz Mezei, from re-entering, even though he'd lived in America for 20 years. Why? Because he was a union supporter and therefore a likely Communist sympathizer.
+
+Despite such history, most legal scholars believe that the doctrine has softened enough that Uncle Sam could no longer get away with barring from the country legal permanent residents or green card holders except in some very limited circumstances (like if they had been involved in terrorist activity while away). That's why the original Trump order, which wouldn't let even green card holders from seven majority-Muslim countries enter, did not have a prayer of being upheld.
+
+But legal scholars also believe that the plenary power doctrine is still strict enough that tourists, students, temporary foreign workers, and others applying for non-immigrant visas from Trump's new list of six countries can be banned (although Hawaii is challenging even this aspect on grounds that it'll affect the state's tourism industry and universities).
+
+The gray area concerns Trump's efforts to deny foreigners applying for immigrant visas to permanently live in the country. At first blush, it seems strange that foreigners wishing to immigrate to the United States might not be covered by the doctrine when those who want to come here only for a brief period are. But the reason is that, with the exception of refugees, these foreigners are sponsored by family members in America. In other words, letting them come to America is not so much about their rights as the rights of their family members.
+
+Trump argues that he can bar even these foreigners, thanks to the powers that Article II of the Constitution gives him to protect national security. In addition, he claims that Congress delegated him its national security powers when it passed the 1952 Immigration and Nationality Act that authorizes him to ban "the entry of any aliens or of any class of aliens" that is "detrimental to the interests of the United States." And as the court itself noted in Youngstown Sheet & Tube Co. v. Sawyer, when a president acts with his own authority and Congress', there is a presumption of constitutionality in his actions that limits judicial scrutiny.
+
+But Cato Institute's David Bier points out — correctly — that Congress subsequently amended the sweeping authority it had handed by passing another law in 1965 barring any discrimination in the "issuance of an immigrant visa because of the person's race, sex, nationality, place of birth, or place of residence." So the travel ban is illegal at least from a statutory standpoint because it treads on three of the banned categories.
+
+That would still leave the president his own authority for his executive order, but how much deference does that deserve from courts?
+
+Trump's supporters point to the Supreme Court's 2015 Kerry v. Din ruling and argue "substantial." In it, the five conservative justices upheld the rejection of the green card petition of an American citizen, Fauzia Din, for her Afghani husband who once worked for the Taliban. But here's what they miss: The court did not find that Din had no protected liberty interest at stake, as Justice Anthony Kennedy explained in his concurrence — but only that whatever that interest, it was overridden by the finding that her husband belonged to a terrorist outfit.
+
+Needless to say, vanishingly few people who would be barred under the Trump ban have family members who belong to terrorist outfits. And yet the executive order would prevent them from entering as a matter of blanket policy — not individualized finding, as was the case in Din. This would be an affront to the due process and equal protection rights of these Americans — and potentially the First Amendment's Establishment Clause and the Free Exercise guarantee as well.
+
+Here is the key question: Does President Trump have a strong enough national security rationale to justify such abrogations?
+
+From a purely common sense perspective, that seems laughable. After all, Trump was yammering about a Muslim ban during his campaign before receiving a single intelligence briefing. He repeatedly singled out Islam as an enemy religion. He even asked former New York Mayor Rudy Giuliani how he could enact a "Muslim ban" in a "legal way."
+
+All of this smacks of anti-Muslim animus rather than a genuine national security concern. But Trump is inviting the court to ignore all these statements and examine only the "four corners" of the executive order as per the plenary power doctrine.
+
+That is a lot to ask of a doctrine that has no constitutional basis. Indeed, the Constitution, strictly speaking, gives political authorities only the power to determine the rules of naturalization — not the power to regulate or limit immigration. The court may end up deferring to Trump because second-guessing his bogus national security rationale would open the door for future judicial interventions for future presidents acting from more genuine national security concerns.
+
+But the Trump ban is testing the outside limits of this doctrine. If the court is looking for a reason to discard it, Trump may have handed it one.

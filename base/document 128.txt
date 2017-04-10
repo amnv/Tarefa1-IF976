@@ -1,0 +1,78 @@
+The tourism–economy causality in the United States
+
+Because of the potential economic benefits of tourism, such as
+increases in foreign exchange earnings, income, employment and
+taxes (Archer, 1995; Balaguer & Cantavella-Jorda, 2002; Dritsakis,
+2004; Durbarry, 2002), many governments have engaged in
+tourism development for the purpose of promoting economic
+growth (Mill & Morrison, 2002; Sahli & Nowak, 2007). However,
+empirical studies have shown inconsistent or even contradictory
+results regarding the tourism-led economic growth hypothesis. For
+example, Dritsakis (2004) found a bi-directional causal relationship
+in Greece; Kim, Chen and Jang (2006) reported a bi-directional
+causality in Taiwan; and Oh (2005) discovered economy-driven
+tourism growth in Korea.
+Considering that these empirical studies are based upon
+different countries, the inconsistent results may be a reflection of
+the country effect. Because countries could be different in terms of
+the weight of tourism in the overall economy (Oh, 2005), the size
+and openness of the economy (Kim et al., 2006), and the production
+capacity constraints (Dwyer, Forsyth, Madden, & Spurr, 2000), the
+tourism–economy relationship could also differ from one country
+to another. Costello (1993) also concluded that a substantial
+fraction of changes in annual productivity could be attributed to
+nation-specific factors. The diverse relationships between tourism
+growth and economic development in different country settings
+(Balaguer & Cantavella-Jorda, 2002; Dritsakis, 2004; Kim et al.,
+2006; Oh, 2005) found in existing empirical studies further support
+the influence of country effect.
+The U.S. tourism industries are among the largest employers in
+the country and generate the largest tourism receipts in the world
+(World Tourism Organization, 2006). Tourism has created more
+than 7.5 million jobs and generates $104.9 billion in taxes (American
+Hotel & Lodging Association, 2006). Nevertheless, little effort
+has been made to investigate the relationship between tourism and
+economy in the U.S. Investigating the tourism–economy relationship
+in the U.S. would not only improve the understanding of the
+interaction between tourism industries and the economy in the U.S.
+but would also provide an opportunity for examining the tourism–
+economy relationship in the context of a developed economy.
+The inconsistent results among extant literature may also come
+from treating all tourism related businesses as a homogeneous
+industry. Unlike other industries that consist of firms offering
+similar goods and services, the tourism industry is more of
+a ‘system’ (Mill & Morrison, 2002) that incorporates a variety of
+different types of businesses and organizations, such as lodging
+establishments, airlines, restaurants, and casinos (American Hotel
+& Lodging Association, 2006). These tourism businesses may
+influence or respond to the same economic events differently in
+terms of timing and magnitude due to the difference in their
+offerings, albeit still related to tourism. Schmalensee (1985) also 
+indicated that industry effect is the most important factor for
+profitability, which further suggests that business performance
+could also vary from industry to industry. Consequently, when the
+tourism related industries are pooled together, they might interact
+with the overall economy as a portfolio, whose overall performance
+is subject to the weights and performance of individual industries.
+This could cause the relationship between the portfolio of tourism
+industries and the overall economy to be unstable across countries
+since the weights and performance of individual industries could
+be different. Therefore, investigating the tourism–economy relationship
+on the sub-industry level could generate more precise
+outcomes on the dynamism between economic and tourism
+development. Additionally, since extant studies have focused on
+the relationship between overall tourism growth and economic
+development, this study also fills a research gap in the literature by
+investigating both the tourism–economy causality on the subindustry
+level.
+This study also aims to identify a temporal causal hierarchy
+among the performances of tourism industries. Until recently,
+industry cycle studies have primarily relied on macroeconomic
+variables (Choi, 2003; Guzhva & Pagiavlas, 2004; Wheaton &
+Rossoff, 1998). Extracting cues from related industries, the temporal
+hierarchy of industry performance could function as an easier and
+potentially more reliable alternative for predicting the turning
+points of industry performance. Therefore, the dual objectives of
+this study are 1) to examine the relationships between tourism
+industries’ growth and economic growth, and 2) to explore the
+interrelationships among the growth of tourism industries.

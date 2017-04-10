@@ -1,0 +1,15 @@
+Trump's Travel Ban Seems To Have Saved the Tourism Business
+
+The New York Times says that President Trump's immigration order last month cratered the tourism business:
+
+The airfare prediction app Hopper, for example, analyzed 303 million flight searches between Jan. 26 and Feb. 1 and found that flight search demand from 122 international countries to the United States dropped 17 percent after the implementation of the travel ban, compared with the first three weeks in January.
+
+Demand bounced back slightly after the ban was temporarily lifted on Feb. 3 but was still down by more than 10 percent as of Feb. 10, compared with the first three weeks in January, said Hopper’s chief data scientist, Patrick Surry.
+
+Flight demand is generally down in 2017, but that all happened before the travel ban. In fact, right after the travel ban was announced, flight demand increased about 17 percent. This is exactly the opposite of what the Times reported.
+
+This is why I almost never pass along any news story with numbers attached to it unless I check the numbers myself.
+
+POSTSCRIPT: I should add that Hopper's own analysis isn't much better. Patrick Surry says: "Flight search demand from international origins to the US has dropped 17% overall since Trump's inauguration, and the implementation of the travel ban, compared to the final weeks of the Obama presidency."
+
+Huh? The only way you can get close to that is to compare the peak day of January (+8 percent) to the day of the Robart TRO (-11 percent). Or perhaps by comparing the pre-inauguration average (-1 percent?) to the worst post-inauguration day (-18 percent). Either way, it says nothing at all about the effect of the travel ban.

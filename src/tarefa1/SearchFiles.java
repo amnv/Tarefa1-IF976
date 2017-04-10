@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package lucene;
+package tarefa1;
 
 
 import java.io.BufferedReader;
@@ -45,10 +45,12 @@ public class SearchFiles {
 	
 	private static boolean stoplist;
 	private static boolean stemming;
+	private static boolean flag;
 	
 	public SearchFiles(boolean stoplist, boolean stemming){
 		SearchFiles.stoplist = stoplist;
 		SearchFiles.stemming = stemming;
+		this.flag = true;
 	}
   private SearchFiles() {} // deixa aqui, vai que alguem usa
   
@@ -198,6 +200,21 @@ public class SearchFiles {
       }
       
       end = Math.min(hits.length, start + hitsPerPage);
+      
+      AnaliseResultados analise =  new AnaliseResultados();
+      
+      for (int j = start; j < numTotalHits; j++) {
+    	  ScoreDoc[] hits2 = searcher.search(query, numTotalHits).scoreDocs;
+    	  Document doc1 = searcher.doc(hits2[j].doc);
+          String path1 = doc1.get("path");
+          if (path1 != null) {
+            String title = doc1.get("title");
+            analise.addDoc(path1, flag);
+          }
+      }
+      analise.geraMatrizRelevancia(flag);
+      flag = true;
+      
       
       for (int i = start; i < end; i++) {
         if (raw) {                              // output raw format

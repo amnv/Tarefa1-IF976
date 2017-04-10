@@ -1,0 +1,88 @@
+Going deep to learn the secrets of Japan's earthquakes
+The 11 March 2011 Tohoku-Oki earthquake was the largest and most destructive in the history of Japan. Japanese researchers -- and their Norwegian partners -- are hard at work trying to understand just what made it so devastating.
+
+The massive earthquake that rocked Japan on 11 March 2011 killed more than 20,000 people, making it one of the most deadly natural disasters in the country's history. Virtually all of the victims drowned in a tsunami that in places was more than 30 metres high.
+
+The tsunami also crippled the Fukushima Daiichi nuclear power plant, causing meltdowns in three of the plant's six reactors and releasing record amounts of radiation to the ocean. The reactors were so unstable at one point that the former Prime Minister, Naoto Kan, later admitted he considered evacuating 50 million people from the greater Tokyo region. Eventually, 160,000 people had to leave their homes because of radiation.
+
+This national disaster, Japan's largest-ever earthquake, was a call to action for Japanese earth scientists. Their mission: to understand exactly what happened to make this quake so destructive. For this, they turned to JAMSTEC, the Japan Agency for Marine-Earth Science and Technology to probe the secrets in the 7000-metre deep Japan Trench, the epicentre of the temblor.
+
+In the five years since the disaster, researchers have found intriguing clues as to what made the quake so dangerous. Norwegian petroleum expertise from working on the Norwegian Continental Shelf is now helping to uncover new details as scientists continue to try to understand what factors contribute to making an earthquake in this region really big. In doing so, they hope to be able to better predict the magnitude and location of future quakes and tsunamis.
+
+A jumble of tectonic plates
+
+Japan sits in what may be one of the most dangerous places possible when it comes to earthquakes. The northern part of the country lies on a piece of the North American plate, whereas the southern part of the country sits on the Eurasian plate. In the north, the Pacific plate is sliding underneath the North American plate, while to the south, the Eurasian plate is riding over the Philippine Sea plate. When one plate moves in relation to another, the movement can trigger an earthquake and tsunami.
+
+The complex jumble of tectonic plates explains why roughly 1,500 earthquakes rattle the country every year, and why it is home to 40 active volcanoes -- 10 per cent of the world's total.
+
+Given that Japan experiences so many earthquakes, the quake that shook the country on the afternoon of 11 March wasn't completely unexpected. In fact, researchers predicted that the region would see an earthquake of 7.5 magnitude or more over the next 30 years.
+
+Earthquakes are routine enough in Japan that the country has strict building codes to prevent damage. Most large buildings wriggle and sway with the shaking of the earth -- one man in Tokyo told the BBC that the movements in his workplace skyscraper during the 2011 quake were so strong he felt seasick -- and even the Fukushima Daiichi nuclear plant was protected by 10-metre-high seawall.
+
+Yet some combination of factors made the Tohoku-Oki earthquake bigger and with a more deadly tsunami than scientists expected. But what?
+
+"This is what we want to understand -- and to mitigate," says Shin'ichi Kuramoto, Director General for the Center for Deep Earth Exploration at JAMSTEC. "Why do these big earthquakes occur?"
+
+A really big slip
+
+JAMSTEC researchers mobilized almost immediately after the disaster, and sent their 106-metre-long research vessel RV Kairei to the quake's epicentre just a few days after it occurred.
+
+For a little over two weeks, the ship cruised over the Japan Trench off the coast of Honshu. The purpose was to create a bathymetric picture of the sea bottom and to collect reflection seismic data, which allows researchers to peer into the sediments and rocks underneath the seafloor.
+
+A subsequent cruise by JAMSTEC's RV Kaiyo 7-8 months after the earthquake collected additional high-resolution reflection seismic images in the area. Fortunately, the researchers also had data from a similar study that had been done in 1999 in the same region.
+
+The data showed them that the landward seafloor in the trench area slipped as much as 50 metres horizontally, said Yasuyuki Nakamura, Deputy Group leader in JAMSTEC's Center for Earthquake and Tsunami Structural Seismology Group.
+
+"This was a big slip in the trench axis area," he said. "For comparison, the 1995 Kobe earthquake, which killed more than 6000 people and was a magnitude 7.3, had an average slip of 2 metres."
+
+Another magnitude 8 earthquake in 1946 in the Nankai area in southern Japan that destroyed 36,000 homes had a maximum slip of 10 metres, Nakamura said.
+
+"So you can see that 50 metres is a very huge slip," he said. That in itself partly explains why the tsunami wave was so big, he said.
+
+Creating images using sound waves
+
+When Martin Landrø, a geophysicist at the Norwegian University of Science and Technology (NTNU), read about the Japanese earthquake and learned that his Japanese counterparts had collected seismic data from both before and after the quake, he thought he might be able to offer some help.
+
+For more than 20 years, Landrø has worked with interpreting and visualizing seismic data. Oil companies and geophysicists routinely use this approach to collect information about the geology under the seafloor. Landrø has studied everything from putting seismic data to work to discover new undersea oil reservoirs to visualizing what happens to CO2 injected into an undersea reservoir, as is being done now in the Sleipner Field in the North Sea.
+
+It works like this: a ship sails along a straight line for 100 kilometres or more, and uses airguns to send an acoustic signal every 50 metres while the ship sails along. The ship also tows a long cable behind it to record the acoustic signals that are reflected back by the sediments and bedrock under the sea floor. Simply stated, harder materials reflect signals back more quickly than softer materials.
+
+Geologists can create a two-dimensional image, a cross section of the geology under the sea floor, by towing one long cable behind a ship. A three-dimensional image can be created by towing a number of cables with sensors on them and essentially combining a series of two-dimensional images into a three-dimensional one.
+
+A very special type of seismic data, however, is called 4D, where the fourth dimension is time. Here, geophysicists can combine 2D images from different time periods, or 3D images from different time periods to see how an area has changed over time. It can be highly complex, especially if different systems have been used to collect the seismic data from the two different time periods. But 4D seismic analysis is Landrø's special expertise.
+
+From North Sea oil reservoirs to the Japan Trench
+
+Landrø contacted Shuichi Kodaira, director of JAMSTEC's Center for Earthquake and Tsunami, and said that he wanted to see if some of the techniques that had been used for petroleum-related purposes could be used to understand stress changes related to earthquakes. Kodaira agreed.
+
+Then it was just a matter of getting the data and "reprocessing it," Landrø said, to make the two different time periods as comparable as possible.
+
+"We could then estimate movements and changes caused by the earthquake at the seabed and below the seabed," Landrø said.
+
+After nearly a year of working remotely together on the data, Landrø and his Norwegian colleagues flew to Japan in November 2016 to meet their Japanese counterparts for the first time. They're now in the process of jointly writing a scientific paper for publication, so he is reluctant to describe their new findings in detail before they are published.
+
+"The ultimate goal here is to understand what happened during the earthquake in as detailed a way as possible. The big picture is more or less the same," Landrø said. "It is more like we are looking at minor details that might be important using a technique that has been used in the oil industry for many years. Maybe we will see some details that haven't been seen before."
+
+An early warning system
+
+Landrø is also interested in a system that JAMSTEC has installed in the ocean off the southern part of the country, called the Dense Oceanfloor Network system for Earthquakes and Tsunamis, more commonly known as DONET.
+
+The DONET system (of which there are now two) is a series of linked pressure sensors installed on the ocean floor in the Nankai Trough, an area that has been hit by repeated dangerous earthquakes, JAMSTEC's Nakamura said.
+
+The Nankai Trough is located where the Philippine Sea plate is sliding under the Eurasian plate at a rate of about 4 cm per year. In general, there have been large earthquakes along the trough every 100 to 150 years.
+
+DONET 1 also includes a series of seismometers, tilt meters and strain indicators that were installed in a pit 980 metres below a known earthquake centre in the Nankai Trough. The sensors from the pit and from the seafloor above are all linked in a network of cables that sends real-time observations to monitoring stations and to local governments and businesses.
+
+Essentially, if there is movement big enough to cause an earthquake and tsunami, the sensors will report it. JAMSTEC researchers have conducted studies that show that the DONET network could detect a coming tsunami as much as 10 to 15 minutes earlier than land-based detection stations along the coast. Those extra minutes could mean saving thousands of lives.
+
+"One of the main purposes here is to provide a tsunami early warning system," Nakamura said. "We've been collaborating with local governments to establish this."
+
+Other applications a possibility
+
+Landrø says he thinks that using techniques from 4D seismic imaging could also be used with the data collected by all the DONET sensors.
+
+The DONET approach, or some variation of it, might also be useful in the future as Norway and other countries explore using oil reservoirs to store CO2. One of the biggest concerns about storing CO2 in subsea reservoirs is monitoring the storage area to make certain the CO2 stays in place. A DONET-style monitoring system might be of interest here, Landrø said.
+
+Landrø also says he thinks that techniques from 4D seismic imaging could be used with the data collected by all the DONET sensors to obtain a better understanding of how the area is changing over time.
+
+DONET "is passive data, listening to the rock," Landrø said. "But here you could also use some of the same techniques as for 4D analysis to learn more."
